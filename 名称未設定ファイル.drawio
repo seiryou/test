@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:45:51.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QpJ3aOs_I2IwxM9S4JIM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:46:19.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mIvraTjTOmFOF5gCl0Pj" version="21.6.2" type="github">
   <diagram name="ページ1" id="-9W-lLPTgf51jU_gYQVh">
     <mxGraphModel dx="1609" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="tAXmL_eugqcr0fN1NyeZ-15" value="配信開始希望日: 5/13" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="152" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAXmL_eugqcr0fN1NyeZ-16" value="" style="endArrow=none;html=1;rounded=0;endFill=0;strokeColor=#FF6666;" edge="1" parent="1">
+        <mxCell id="tAXmL_eugqcr0fN1NyeZ-16" value="" style="endArrow=none;html=1;rounded=0;endFill=0;strokeColor=#FF6666;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry x="-0.0312" y="140" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="726" as="sourcePoint" />
             <mxPoint x="660" y="86" as="targetPoint" />
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tAXmL_eugqcr0fN1NyeZ-103" value="6/1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="627" y="688" width="60" height="30" as="geometry" />
+          <mxGeometry x="654" y="687" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAXmL_eugqcr0fN1NyeZ-104" value="締日: 6/2&lt;br&gt;取込完了日: -&lt;br&gt;役務完了日: 5/31 -&amp;gt; 6/1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1019" y="633" width="140" height="30" as="geometry" />
