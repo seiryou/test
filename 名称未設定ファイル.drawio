@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:46:19.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mIvraTjTOmFOF5gCl0Pj" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:48:01.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="h5tdfZIscJKOLg_eFNG0" version="21.6.2" type="github">
   <diagram name="ページ1" id="-9W-lLPTgf51jU_gYQVh">
-    <mxGraphModel dx="1609" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAXmL_eugqcr0fN1NyeZ-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6/2現在(5月分締日)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="tAXmL_eugqcr0fN1NyeZ-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;6/2現在(5月分締日)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="540" y="36" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAXmL_eugqcr0fN1NyeZ-22" value="作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
